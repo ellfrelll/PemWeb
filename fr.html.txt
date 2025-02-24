@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> ini syuki</title>
+</head>
+
+<body>
+<h1> ini github milik hytm</h1>
+</body>
+
+</html>
